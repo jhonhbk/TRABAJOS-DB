@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "V01",
+        "nombre": "JUANA",
+        "apellido": "ALVA",
+        "sueldo": "1000.000",
+        "fecha_inicio": "2003-07-12",
+        "tipo": "1",
+        "cod_distrito": "D08"
+    },
+    {
+        "_id": "V02",
+        "nombre": "JUAN",
+        "apellido": "SOTO",
+        "sueldo": "1200.000",
+        "fecha_inicio": "2002-10-03",
+        "tipo": "2",
+        "cod_distrito": "D03"
+    },
+    {
+        "_id": "V03",
+        "nombre": "CARLOS",
+        "apellido": "AREVALO",
+        "sueldo": "1500.000",
+        "fecha_inicio": "1992-02-10",
+        "tipo": "2",
+        "cod_distrito": "D09"
+    },
+    {
+        "_id": "V04",
+        "nombre": "CESAR",
+        "apellido": "OJEDA",
+        "sueldo": "850.000",
+        "fecha_inicio": "1999-08-11",
+        "tipo": "1",
+        "cod_distrito": "D01"
+    },
+    {
+        "_id": "V05",
+        "nombre": "JULIO",
+        "apellido": "VEGA",
+        "sueldo": "1500.000",
+        "fecha_inicio": "1997-11-05",
+        "tipo": "1",
+        "cod_distrito": "D01"
+    },
+    {
+        "_id": "V06",
+        "nombre": "ANA",
+        "apellido": "ORTEGA",
+        "sueldo": "1200.000",
+        "fecha_inicio": "1994X-11-05",
+        "tipo": "1",
+        "cod_distrito": "D05"
+    },
+    {
+        "_id": "V07",
+        "nombre": "JOSE",
+        "apellido": "PALACIOS",
+        "sueldo": "2500.000",
+        "fecha_inicio": "1997-12-02",
+        "tipo": "1",
+        "cod_distrito": "D02"
+    },
+    {
+        "_id": "V08",
+        "nombre": "RUBEN",
+        "apellido": "GOMEZ",
+        "sueldo": "1450.000",
+        "fecha_inicio": "1996-12-08",
+        "tipo": "2",
+        "cod_distrito": "D04"
+    },
+    {
+        "_id": "V09",
+        "nombre": "PATRICIA",
+        "apellido": "ARCE",
+        "sueldo": "1800.000",
+        "fecha_inicio": "1997-12-05",
+        "tipo": "2",
+        "cod_distrito": "D04"
+    },
+    {
+        "_id": "V10",
+        "nombre": "RENATO",
+        "apellido": "PEREZ",
+        "sueldo": "1550.000",
+        "fecha_inicio": "1998-11-08",
+        "tipo": "2",
+        "cod_distrito": "D01"
+    }
+]

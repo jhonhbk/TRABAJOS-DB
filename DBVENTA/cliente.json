@@ -1,0 +1,113 @@
+[
+    {
+        "_id": "C001",
+        "razon_social": "FINSETH",
+        "direccion": "AV. LOS VIÑEDOS",
+        "telefono": "4343218",
+        "ruc": "48632881",
+        "cod_distrito": "D05",
+        "fecha_registro": "2008-10-12",
+        "tipo": "1",
+        "contacto": "ALICIA BARRETO"
+    },
+    {
+        "_id": "C002",
+        "razon_social": "OBRI",
+        "direccion": "AV. EMILIO CABENECIA 225",
+        "telefono": "4406335",
+        "ruc": "57031642",
+        "cod_distrito": "D04",
+        "fecha_registro": "2013-01-02",
+        "tipo": "2",
+        "contacto": "ALFONSO BELTRAN"
+    },
+    {
+        "_id": "C003",
+        "razon_social": "SERVIEMSA",
+        "direccion": "JR. COLLAGATE 522",
+        "telefono": "75012403",
+        "ruc": "NULL",
+        "cod_distrito": "D05",
+        "fecha_registro": "2011-03-06",
+        "tipo": "2",
+        "contacto": "CHRISTIAN LAGUNA"
+    },
+    {
+        "_id": "C004",
+        "razon_social": "ISSA",
+        "direccion": "CALLE LOS ALIADORES 263",
+        "telefono": "57725910",
+        "ruc": "46702159",
+        "cod_distrito": "D01",
+        "fecha_registro": "2012-12-09",
+        "tipo": "1",
+        "contacto": "LUIS APUMAYTA"
+    },
+    {
+        "_id": "C005",
+        "razon_social": "MASS",
+        "direccion": "AV. TOMAS MARSANO 880",
+        "telefono": "4446771",
+        "ruc": "88375942",
+        "cod_distrito": "D14",
+        "fecha_registro": "2013-01-10",
+        "tipo": "1",
+        "contacto": "KATIA ARMEJO"
+    },
+    {
+        "_id": "C006",
+        "razon_social": "BEKER",
+        "direccion": "AV. LOS PROCERES 521",
+        "telefono": "810322",
+        "ruc": "54890124",
+        "cod_distrito": "D05",
+        "fecha_registro": "2013-05-07",
+        "tipo": "1",
+        "contacto": "JUDITH ASE"
+    },
+    {
+        "_id": "C007",
+        "razon_social": "FIDENZA",
+        "direccion": "JR. EL ITIQUEL 282",
+        "telefono": "5280934",
+        "ruc": "16204799",
+        "cod_distrito": "D20",
+        "fecha_registro": "2012-02-10",
+        "tipo": "2",
+        "contacto": "HECTOR VIVANCO"
+    },
+    {
+        "_id": "C008",
+        "razon_social": "INTECH",
+        "direccion": "AV. SAN LUIS 2619 5TO P.",
+        "telefono": "22494937",
+        "ruc": "34021824",
+        "cod_distrito": "D09",
+        "fecha_registro": "2011-07-01",
+        "tipo": "2",
+        "contacto": "CARLOS VILLANUEVA"
+    },
+    {
+        "_id": "C009",
+        "razon_social": "PROMINENT",
+        "direccion": "JR. IQUIQUE 132",
+        "telefono": "43231519",
+        "ruc": "NULL",
+        "cod_distrito": "D11",
+        "fecha_registro": "2010-11-06",
+        "tipo": "1",
+        "contacto": "JORGE VALDIVIA"
+    },
+    {
+        "_id": "C010",
+        "razon_social": "LANDU",
+        "direccion": "AV. NICOLAS DE A DIEZ 1453",
+        "telefono": "567846",
+        "ruc": "30405261",
+        "cod_distrito": "D06",
+        "fecha_registro": "2013-06-11",
+        "tipo": "2",
+        "contacto": "RAQUEL ESPINOZA"
+    }
+     
+]

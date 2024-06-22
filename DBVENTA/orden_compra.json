@@ -1,0 +1,36 @@
+[
+    {
+    "_id": "OC001",
+    "fecha": "2013-03-05",
+    "proveedor": {
+      "id": "PR01",
+      "razon_social": "FABER CASTELL"
+    },
+    "fecha_atencion": "2013-03-12",
+    "estado": "1",
+    "detalle": [
+      {
+        "producto_id": "P001",
+        "cantidad": "200",
+        "precio": "35.0000"
+      }
+    ]
+  },
+  {
+    "_id": "OC002",
+    "fecha": "2013-04-08",
+    "proveedor": {
+      "id": "PR02",
+      "razon_social": "ATLAS"
+    },
+    "fecha_atencion": "2013-04-10",
+    "estado": "1",
+    "detalle": [
+      {
+        "producto_id": "P002",
+        "cantidad": "50",
+        "precio": "35.0000"
+      }
+    ]
+  }
+]

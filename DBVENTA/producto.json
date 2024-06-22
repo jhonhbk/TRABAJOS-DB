@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "P001",
+        "descripcion": "PAPEL BOND A-4",
+        "precio": "35.0000",
+        "stock_actual": "200",
+        "stock_minimo": "1500",
+        "unidad": "MLL",
+        "linea": "2",
+        "impuesto": "V"
+    },
+    {
+        "_id": "P002",
+        "descripcion": "PAPEL BOND OFICIO",
+        "precio": "35.0000",
+        "stock_actual": "50",
+        "stock_minimo": "1500",
+        "unidad": "MLL",
+        "linea": "2",
+        "impuesto": "F"
+    },
+    {
+        "_id": "P003",
+        "descripcion": "PAPEL PAPEL BULKY",
+        "precio": "10.0000",
+        "stock_actual": "498",
+        "stock_minimo": "1000",
+        "unidad": "MLL",
+        "linea": "2",
+        "impuesto": "V"
+    },
+    {
+        "_id": "P004",
+        "descripcion": "PAPEL PERIODICO",
+        "precio": "9.0000",
+        "stock_actual": "4285",
+        "stock_minimo": "1000",
+        "unidad": "MLL",
+        "linea": "2",
+        "impuesto": "F"
+    },
+    {
+        "_id": "P005",
+        "descripcion": "CARTUCHO TINTA NEGRA",
+        "precio": "40.0000",
+        "stock_actual": "50",
+        "stock_minimo": "30",
+        "unidad": "UNI",
+        "linea": "1",
+        "impuesto": "F"
+    },
+    {
+        "_id": "P006",
+        "descripcion": "CARTUCHO TINTA COLOR",
+        "precio": "45.0000",
+        "stock_actual": "58",
+        "stock_minimo": "35",
+        "unidad": "UNI",
+        "linea": "1",
+        "impuesto": "F"
+    },
+    {
+        "_id": "P007",
+        "descripcion": "PORTA DISKETTES",
+        "precio": "3.5000",
+        "stock_actual": "30",
+        "stock_minimo": "80",
+        "unidad": "UNI",
+        "linea": "1",
+        "impuesto": "V"
+    },
+    {
+        "_id": "P008",
+        "descripcion": "CAJA DISKETTES * 10",
+        "precio": "30.0000",
+        "stock_actual": "125",
+        "stock_minimo": "180",
+        "unidad": "UNI",
+        "linea": "1",
+        "impuesto": "F"
+    },
+    {
+        "_id": "P009",
+        "descripcion": "BORRADOR DE TINTA",
+        "precio": "10.0000",
+        "stock_actual": "100",
+        "stock_minimo": "500",
+        "unidad": "DOC",
+        "linea": "3",
+        "impuesto": "V"
+    },
+    {
+        "_id": "P010",
+        "descripcion": "BORRADOR BLANCO",
+        "precio": "8.0000",
+        "stock_actual": "2000",
+        "stock_minimo": "4000",
+        "unidad": "DOC",
+        "linea": "3",
+        "impuesto": "F"
+    }
+]

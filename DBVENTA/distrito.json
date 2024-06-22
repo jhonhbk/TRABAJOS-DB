@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "D01",
+        "nombre": "SURCO"
+    },
+    {
+        "_id": "D02",
+        "nombre": "JESUS MARIA"
+    },
+    {
+        "_id": "D03",
+        "nombre": "SAN ISIDRO"
+    },
+    {
+        "_id": "D04",
+        "nombre": "LA MOLINA"
+    },
+    {
+        "_id": "D05",
+        "nombre": "SAN MIGUEL"
+    },
+    {
+        "_id": "D06",
+        "nombre": "MIRAFLORES"
+    },
+    {
+        "_id": "D07",
+        "nombre": "BARRANCO"
+    },
+    {
+        "_id": "D08",
+        "nombre": "CHORRILLOS"
+    },
+    {
+        "_id": "D09",
+        "nombre": "SAN BORJA"
+    },
+    {
+        "_id": "D10",
+        "nombre": "LINCE"
+    }
+]
+
+

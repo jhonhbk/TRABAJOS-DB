@@ -1,0 +1,27 @@
+[
+    {
+        "proveedor_id": "PR01",
+        "producto_id": "P003",
+        "precio_abastecimiento": "8.0000"
+    },
+    {
+        "proveedor_id": "PR01",
+        "producto_id": "P005",
+        "precio_abastecimiento": "35.0000"
+    },
+    {
+        "proveedor_id": "PR01",
+        "producto_id": "P007",
+        "precio_abastecimiento": "3.0000"
+    },
+    {
+        "proveedor_id": "PR01",
+        "producto_id": "P009",
+        "precio_abastecimiento": "8.0000"
+    },
+    {
+        "proveedor_id": "PR02",
+        "producto_id": "P011",
+        "precio_abastecimiento": "18.0000"
+    }
+]

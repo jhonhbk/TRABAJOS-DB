@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "FA001",
+        "fecha": "2024-06-13",
+        "cliente":{
+            "id":"C01",
+            "razon_social":"TESLA"
+        },
+        "fecha_cancelacion": "2025-01-09",
+        "estado": "Pendiente",
+        "vendedor":{
+            "id":"V01",
+            "nombre":"ELON MUSK"
+        },
+        "porcentaje_igv": "1.8%",
+        "detalle":{
+            "producto_id":"P01",
+            "cantidad":"11",
+            "precio":"25.00"
+        } 
+    },
+    {
+        "_id": "FA002",
+        "fecha": "2013-07-06",
+        "cliente":{
+            "id":"C002",
+            "razon_social":"OBRI"
+        },
+        "fecha_cancelacion": "2013-08-05",
+        "estado": "3",
+        "vendedor":{
+            "id":"V02",
+            "nombre":"JUAN"
+        },
+        "porcentaje_igv": "0",
+        "detalle":{
+            "producto_id":"P002",
+            "cantidad":"50",
+            "precio":"35.0000"
+        } 
+    } 
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "PR01",
+        "razon_social": "FABER CASTELL",
+        "direccion": "AV. ISABEL LA CATOLICA 1875",
+        "telefono": "433309",
+        "cod_distrito": "D13",
+        "representante": "CARLOS AGUIRRE"
+    },
+    {
+        "_id": "PR02",
+        "razon_social": "ATLASL",
+        "direccion": "AV. LIMA 471",
+        "telefono": "538092",
+        "cod_distrito": "D13",
+        "representante": "CESAR TORRES"
+    },
+    {
+        "_id": "PR03",
+        "razon_social": "3M",
+        "direccion": "AV. VENEZUELA 3018",
+        "telefono": "538092",
+        "cod_distrito": "D16",
+        "representante": "OMAR INJOQUE"
+    },
+    {
+        "_id": "PR04",
+        "razon_social": "DITO",
+        "direccion": "AV. METROPOLITANA 376",
+        "telefono": "NULL",
+        "cod_distrito": "D19",
+        "representante": "RAMON FLORES"
+    },
+    {
+        "_id": "PR05",
+        "razon_social": "ACKER",
+        "direccion": "CALLE LAS DUNAS 245",
+        "telefono": "478013",
+        "cod_distrito": "D27",
+        "representante": "JULIO ACUÑA"
+    },
+    {
+        "_id": "PR06",
+        "razon_social": "DEDITEC",
+        "direccion": "CALLE PICHINCHA 644",
+        "telefono": "566284",
+        "cod_distrito": "D11",
+        "representante": "JAVIER GONZALES"
+    },
+    {
+        "_id": "PR07",
+        "razon_social": "OFFICETEC",
+        "direccion": "CALLE LAS PERDICES 255 OF.204",
+        "telefono": "421684",
+        "cod_distrito": "D03",
+        "representante": "CARLOS ROBLES"
+    },
+    {
+        "_id": "PR08",
+        "razon_social": "INVICTA",
+        "direccion": "AV. LOS FRUTALES 564",
+        "telefono": "436424",
+        "cod_distrito": "D27",
+        "representante": "ALBERTO RODRIGUEZ"
+    },
+    {
+        "_id": "PR09",
+        "razon_social": "DIPROPOR",
+        "direccion": "AV. DEL AIRE 901",
+        "telefono": "474204",
+        "cod_distrito": "D24",
+        "representante": "ROBERTO RONCEROS"
+    },
+    {
+        "_id": "PR10",
+        "razon_social": "MIURA",
+        "direccion": "AV. LA PAZ 257",
+        "telefono": "445971",
+        "cod_distrito": "D06",
+        "representante": "JORGE VAZQUEZ"
+    }
+]
